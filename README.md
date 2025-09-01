@@ -6,6 +6,7 @@ Bu proje NXP GUI Guider kullanılarak hazırlanmıştır.
 - **lvgl-simulator/**: Simülasyon için gerekli dosyalar  
 - **config.txt**: Konfigürasyon ayar dosyası  
 - **sources** : proje için kullanılan img dosyalar
+- 
 Çalıştırma
 1. `config.txt` dosyası lvgl-simulator klasöründe olmalı.  
 2. GUI Guider’dan projeyi açıp Run tuşuna basarak çalıştırabilirsiniz.
